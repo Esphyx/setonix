@@ -1,0 +1,4 @@
+{
+    "settings_path": "./config/settings.json",
+    "test_path": "./test/skin.png"
+}
