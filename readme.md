@@ -1,6 +1,7 @@
 # Setonix
 
 ## Description
+> ***TODO***
 
 ## Table of Contents
 - [Installation](#installation)
@@ -9,9 +10,13 @@
 - [License](#license)
 
 ## Installation
+> ***TODO***
 
 ## Usage
+> ***TODO***
 
 ## Configuration
+> ***TODO***
 
 ## License
+> ***TODO***
