@@ -246,7 +246,7 @@ impl Network<Ready> {
         serde_json::from_str(contents.as_str()).unwrap()
     }
 }
-impl Genetic for Network {
+impl Genetic for Network<Ready> {
     fn mutate(&mut self, alpha: f64) {
         self.layers.iter_mut().for_each(|layer| layer.mutate(alpha));
     }
